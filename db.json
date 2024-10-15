@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "id": "c208",
+      "name": "siddhesh",
+      "designation": "Back",
+      "department": "Engineering",
+      "joiningDate": "2024-10-11",
+      "salary": "20000",
+      "email": "siddhesh@gmail.com",
+      "phone": "9726334567"
+    },
+    {
+      "id": "d972",
+      "name": "PHADTARE RITESH AVINASH",
+      "designation": "react ",
+      "department": "Engineering",
+      "joiningDate": "2024-10-15",
+      "salary": "800000",
+      "email": "ritesh.phadtare@mmit.edu.in",
+      "phone": "8956290030"
+    }
+  ]
+}
